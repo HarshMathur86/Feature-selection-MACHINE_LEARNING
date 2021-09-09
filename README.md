@@ -11,4 +11,4 @@ Results showing that following are the top three features responsible for high s
 
 After with the help of this correlated data I genrated correlation matrix and after plotting it in heatmap following visualisation achieved
 
-<img src="https://github.com/HarshMathur86/Feature-selection-MACHINE_LEARNING/blob/main/Heatmap.png" width="1500" height="1200"/>
+<img src="https://github.com/HarshMathur86/Feature-selection-MACHINE_LEARNING/blob/main/Heatmap.png" width="1500" height="1000"/>
